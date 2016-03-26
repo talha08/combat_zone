@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1394910117 source:f:\my workshop\work\datatest\main.cpp
+	<graphics.h>
+	<conio.h>
+	<cstdio>
+
+1394724121 source:f:\my workshop\work\datatest\untitled1.cpp
+
+1394925495 source:f:\my workshop\work\datatest\level2.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+
+1394925495 source:f:\my workshop\work\datatest\level3.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+
+1394925495 source:f:\my workshop\work\datatest\level4.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+
+1394901754 source:f:\my workshop\work\datatest\level1.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+
+1394963892 source:e:\datatest\level1.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394964390 source:e:\datatest\level2.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394994109 source:e:\datatest\level3.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394994109 source:e:\datatest\level4.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394994385 source:e:\datatest\main.cpp
+	<graphics.h>
+	<conio.h>
+	<cstdio>
+
+1394963892 source:h:\datatest\level2.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394963892 source:h:\datatest\level3.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394964142 source:h:\datatest\level4.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394963662 source:h:\datatest\main.cpp
+	<graphics.h>
+	<conio.h>
+	<cstdio>
+
+1394963892 source:h:\datatest\level1.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394964390 source:k:\datatest\level2.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394966062 source:k:\datatest\level4.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394963662 source:k:\datatest\main.cpp
+	<graphics.h>
+	<conio.h>
+	<cstdio>
+
+1394963892 source:k:\datatest\level1.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394964440 source:k:\datatest\level3.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394964390 source:e:\programming\datatest\level2.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394994109 source:e:\programming\datatest\level3.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394994109 source:e:\programming\datatest\level4.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394994385 source:e:\programming\datatest\main.cpp
+	<graphics.h>
+	<conio.h>
+	<cstdio>
+
+1394963892 source:e:\programming\datatest\level1.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394963892 source:e:\game programming\datatest\level1.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394964390 source:e:\game programming\datatest\level2.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394994109 source:e:\game programming\datatest\level3.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
+1394994109 source:e:\game programming\datatest\level4.cpp
+	<cstdio>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
